@@ -1,0 +1,12 @@
+.DS_Store
+
+# Локальные данные и результаты сборки Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Записи Instruments (Allocations, Time Profiler и другие)
+*.trace
+
+# Воспроизводимые тестовые данные PoC-01
+/experiments/poc-01-textkit2/TestData/generated/

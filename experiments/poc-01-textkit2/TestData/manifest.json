@@ -1,0 +1,56 @@
+{
+  "files" : [
+    {
+      "bytes" : 100000,
+      "lineEndings" : "LF",
+      "lines" : 209,
+      "name" : "baseline-100000-lf.md",
+      "sha256" : "c2cb67db053de0b0985ad29970229b43ead0864623342ae29baf7c40f0354545"
+    },
+    {
+      "bytes" : 100000,
+      "lineEndings" : "CRLF",
+      "lines" : 209,
+      "name" : "baseline-100000-crlf.md",
+      "sha256" : "4205de5f564d5a4c100d67d7950eb9e02f48cf3fda486385ad75c9bd7b211e05"
+    },
+    {
+      "bytes" : 1000000,
+      "lineEndings" : "LF",
+      "lines" : 2145,
+      "name" : "baseline-1000000-lf.md",
+      "sha256" : "c92a871e2be0de511887ff0e9de46b7e5e10dc55b9e1a0d016b7586359cb7b39"
+    },
+    {
+      "bytes" : 1000000,
+      "lineEndings" : "CRLF",
+      "lines" : 2145,
+      "name" : "baseline-1000000-crlf.md",
+      "sha256" : "d838fade45256abbef83ba03b19de5f271fba504636426042570536e185c79ad"
+    },
+    {
+      "bytes" : 5000000,
+      "lineEndings" : "LF",
+      "lines" : 10753,
+      "name" : "baseline-5000000-lf.md",
+      "sha256" : "c66118d5e108af35ebc18d29780b53d0ce9eed2968ce2f1e8e6f43cd589cbe64"
+    },
+    {
+      "bytes" : 5000000,
+      "lineEndings" : "CRLF",
+      "lines" : 10729,
+      "name" : "baseline-5000000-crlf.md",
+      "sha256" : "e39911c51a5c26b33e26917d99ab06035157b347988b3ddbb7ccb97e4b7a2a77"
+    },
+    {
+      "bytes" : 1000000,
+      "lineEndings" : "none",
+      "lines" : 1,
+      "name" : "stress-1000000-no-newline.txt",
+      "sha256" : "9d015a4e07935c0b72e50de855be5d9e8bb650a41ff2d2855f248eb61cf3e5ec"
+    }
+  ],
+  "generatorVersion" : 1,
+  "lineConvention" : "LF count plus one for a nonempty unterminated final line; CRLF counts once",
+  "sizeConvention" : "decimal UTF-8 bytes"
+}
