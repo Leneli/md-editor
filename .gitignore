@@ -8,5 +8,18 @@ xcuserdata/
 # Записи Instruments (Allocations, Time Profiler и другие)
 *.trace
 
+# Архивные файлы
+*.[zZ][iI][pP]
+*.7[zZ]
+*.[rR][aA][rR]
+*.[tT][aA][rR]
+*.[gG][zZ]
+*.[bB][zZ]2
+*.[xX][zZ]
+*.[tT][gG][zZ]
+*.[tT][bB][zZ]2
+*.[tT][xX][zZ]
+*.[zZ][sS][tT]
+
 # Воспроизводимые тестовые данные PoC-01
 /experiments/poc-01-textkit2/TestData/generated/
